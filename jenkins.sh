@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Atualizar repositorios
 apt update -y && apt upgrade -y
