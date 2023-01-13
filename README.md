@@ -20,3 +20,7 @@ Quaisquer sugestões e contribuições são bem-vindas.
 A instalação completa instalará o seguinte:
 
 * Jenkins
+
+# Acesso WEB
+
+* http://localhost:8080
