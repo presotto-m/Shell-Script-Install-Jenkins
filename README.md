@@ -24,3 +24,5 @@ A instalação completa instalará o seguinte:
 # Acesso WEB
 
 * http://localhost:8080
+
+* Senha Admin: cat /var/lib/jenkins/secrets/initialAdminPassword
